@@ -47,9 +47,3 @@ This will start the Metro bundler. From here, you can:
 - `assets/`: Stores images, fonts, and other static files.
 - `components/`: Reusable UI components.
 - `constants/`: Global variables, theme colors, and configuration settings.
-
-## 👨‍💻 Author
-
-**Shadrach (Xeno)**
-
-Feel free to explore the code, break things, and build something amazing!
