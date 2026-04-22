@@ -1,4 +1,4 @@
-# Xeno's Expo App 🚀
+#My React Expo App 🚀
 
 Welcome to my React Native project, built with [Expo](https://expo.dev/) and **Expo Router**. 
 
