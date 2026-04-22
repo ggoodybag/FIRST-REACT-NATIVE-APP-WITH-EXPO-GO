@@ -17,7 +17,7 @@ export default function HomeScreen() {
         <View style={styles.divider} />
 
         <ThemedText style={styles.messageText}>
-          Hi, I'm <ThemedText type="defaultSemiBold" style={styles.highlightText}>Shadrach (Xeno)</ThemedText>.
+          Hi, I'm <ThemedText type="defaultSemiBold" style={styles.highlightText}>Goodness Aregbesola</ThemedText>.
         </ThemedText>
         
         <ThemedText style={styles.subtitleText}>
